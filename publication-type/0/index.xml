@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Matthieu Zins</title>
+    <link>/publication-type/0/</link>
+      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Circle Finder</title>
+      <link>/talk/circle-finder/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/circle-finder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault Detection in a 3D Seismic Volume</title>
+      <link>/talk/gfu00/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/gfu00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codebase Fixes and Performance Optimization</title>
+      <link>/talk/gfu03/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/gfu03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D-Mesh to Polyline Sticks Conversion</title>
+      <link>/talk/gfu01/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/gfu01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculation of Auxiliary Data for Geologic Fault Utilities</title>
+      <link>/talk/gfu02/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/gfu02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

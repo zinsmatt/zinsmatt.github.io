@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthieu Zins</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthieu Zins</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:47:04 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Matthieu Zins</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>My Article Name</title>
+      <link>/post/my-article-name/</link>
+      <pubDate>Sun, 13 Dec 2020 00:47:04 +0100</pubDate>
+      <guid>/post/my-article-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circle Finder</title>
+      <link>/talk/circle-finder/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/circle-finder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D-Aware Ellipse Prediction for Object-Based Camera Pose Estimation</title>
+      <link>/publication/3dv20/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/3dv20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault Detection in a 3D Seismic Volume</title>
+      <link>/talk/gfu00/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/gfu00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codebase Fixes and Performance Optimization</title>
+      <link>/talk/gfu03/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/gfu03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D-Mesh to Polyline Sticks Conversion</title>
+      <link>/talk/gfu01/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/gfu01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculation of Auxiliary Data for Geologic Fault Utilities</title>
+      <link>/talk/gfu02/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/gfu02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Semantic 3D Reconstruction From Multiview Satellite Imagery</title>
+      <link>/publication/core3d/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/core3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color Fusion and Super-Resolution for Time-of-Flight Cameras</title>
+      <link>/publication/masterthesis/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/masterthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault Detection in a 3D Seismic Volume (3rd place)</title>
+      <link>/accomplishment/fault_detection_in_a_3d_seismic_volume/fault_detection_in_a_3d_seismic_volume/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/accomplishment/fault_detection_in_a_3d_seismic_volume/fault_detection_in_a_3d_seismic_volume/</guid>
+      <description>&lt;p&gt;The goal of this challenge was to detect and segment faults (curved surfaces) from seismic volume data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fault Detection in a 3D Seismic Volume (3rd place)</title>
+      <link>/project/fault_detection_in_a_3d_seismic_volume/fault_detection_in_a_3d_seismic_volume/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/project/fault_detection_in_a_3d_seismic_volume/fault_detection_in_a_3d_seismic_volume/</guid>
+      <description>&lt;p&gt;&lt;b style=&#34;font-size:120%;color:#F08080&#34;&gt;3DV 2020&lt;/b&gt;
+The goal of this challenge was to detect and segment faults (curved surfaces) from seismic volume data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/privacy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

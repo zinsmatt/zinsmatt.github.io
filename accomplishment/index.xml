@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accomplishments | Matthieu Zins</title>
+    <link>/accomplishment/</link>
+      <atom:link href="/accomplishment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Accomplishments</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Accomplishments</title>
+      <link>/accomplishment/</link>
+    </image>
+    
+    <item>
+      <title>Fault Detection in a 3D Seismic Volume (3rd place)</title>
+      <link>/accomplishment/fault_detection_in_a_3d_seismic_volume/fault_detection_in_a_3d_seismic_volume/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/accomplishment/fault_detection_in_a_3d_seismic_volume/fault_detection_in_a_3d_seismic_volume/</guid>
+      <description>&lt;p&gt;The goal of this challenge was to detect and segment faults (curved surfaces) from seismic volume data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
