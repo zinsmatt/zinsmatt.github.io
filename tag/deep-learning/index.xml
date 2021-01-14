@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Matthieu Zins</title>
+    <link>/tag/deep-learning/</link>
+      <atom:link href="/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Deep Learning</title>
+      <link>/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Circle Finder</title>
+      <link>/talk/circle-finder/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/circle-finder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D-Aware Ellipse Prediction for Object-Based Camera Pose Estimation</title>
+      <link>/publication/3dv20/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/3dv20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

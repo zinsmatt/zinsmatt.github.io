@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C&#43;&#43; | Matthieu Zins</title>
+    <link>/tag/c-/</link>
+      <atom:link href="/tag/c-/index.xml" rel="self" type="application/rss+xml" />
+    <description>C&#43;&#43;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>C&#43;&#43;</title>
+      <link>/tag/c-/</link>
+    </image>
+    
+    <item>
+      <title>Codebase Fixes and Performance Optimization</title>
+      <link>/talk/gfu03/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/gfu03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D-Mesh to Polyline Sticks Conversion</title>
+      <link>/talk/gfu01/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/gfu01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculation of Auxiliary Data for Geologic Fault Utilities</title>
+      <link>/talk/gfu02/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/gfu02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
