@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthieu Zins</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:47:04 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud447f41cd9e676e6dd869c25119b4fc4_1916_512x512_fill_lanczos_center_2.png</url>
       <title>Matthieu Zins</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction</title>
+      <link>/publication/ijcv/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ijcv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>My Article Name</title>

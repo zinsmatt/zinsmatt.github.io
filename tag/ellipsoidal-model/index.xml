@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marie-Odile Berger | Matthieu Zins</title>
-    <link>/author/marie-odile-berger/</link>
-      <atom:link href="/author/marie-odile-berger/index.xml" rel="self" type="application/rss+xml" />
-    <description>Marie-Odile Berger</description>
+    <title>Ellipsoidal Model | Matthieu Zins</title>
+    <link>/tag/ellipsoidal-model/</link>
+      <atom:link href="/tag/ellipsoidal-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ellipsoidal Model</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud447f41cd9e676e6dd869c25119b4fc4_1916_512x512_fill_lanczos_center_2.png</url>
-      <title>Marie-Odile Berger</title>
-      <link>/author/marie-odile-berger/</link>
+      <title>Ellipsoidal Model</title>
+      <link>/tag/ellipsoidal-model/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/ijcv/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/publication/ijcv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3D-Aware Ellipse Prediction for Object-Based Camera Pose Estimation</title>
-      <link>/publication/3dv20/</link>
-      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/3dv20/</guid>
       <description></description>
     </item>
     
