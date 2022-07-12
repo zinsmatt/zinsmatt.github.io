@@ -3,12 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ellipse-ellipse-cost/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gilles-simon/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/iros/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marie-odile-berger/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matthieu-zins/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nonlinear-optimization/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pose-estimation/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/uncertainty-prediction/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,47 +88,7 @@
   </url>
   
   <url>
-    <loc>/author/gilles-simon/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/marie-odile-berger/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/matthieu-zins/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/ijcv/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/pose-estimation/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,12 +128,7 @@
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/3dv20/</loc>
+    <loc>/publication/3dv/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -240,6 +260,11 @@
   <url>
     <loc>/author/zhixin-li/</loc>
     <lastmod>2019-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>

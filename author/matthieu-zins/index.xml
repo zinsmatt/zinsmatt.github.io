@@ -5,12 +5,25 @@
     <link>/author/matthieu-zins/</link>
       <atom:link href="/author/matthieu-zins/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthieu Zins</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud447f41cd9e676e6dd869c25119b4fc4_1916_512x512_fill_lanczos_center_2.png</url>
       <title>Matthieu Zins</title>
       <link>/author/matthieu-zins/</link>
     </image>
+    
+    <item>
+      <title>Level Set-Based Camera Pose Estimation From Multiple 2D/3D Ellipse-Ellipsoid Correspondences</title>
+      <link>/publication/iros/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/iros/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/TxtsvlMDxbM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction</title>
@@ -30,10 +43,15 @@
     
     <item>
       <title>3D-Aware Ellipse Prediction for Object-Based Camera Pose Estimation</title>
-      <link>/publication/3dv20/</link>
+      <link>/publication/3dv/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/3dv20/</guid>
-      <description></description>
+      <guid>/publication/3dv/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/PhE4LzsqjAE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
     </item>
     
     <item>
