@@ -4,12 +4,67 @@
   
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/camera-relocalization/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gilles-simon/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marie-odile-berger/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matthieu-zins/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ismar/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/object-mapping/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/visual-slam/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,27 +73,7 @@
   </url>
   
   <url>
-    <loc>/author/gilles-simon/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/iros/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/marie-odile-berger/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/matthieu-zins/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,21 +84,6 @@
   
   <url>
     <loc>/tag/pose-estimation/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url>
   
