@@ -3,12 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+    <loc>/publication-type/7/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/thesis/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ellipsoidal-model/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matthieu-zins/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/semantic-slam/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/visual-localization/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
     <lastmod>2022-08-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,32 +73,12 @@
   </url>
   
   <url>
-    <loc>/author/matthieu-zins/</loc>
-    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/ismar/</loc>
     <lastmod>2022-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/object-mapping/</loc>
-    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2022-08-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,11 +119,6 @@
   
   <url>
     <loc>/tag/deep-learning/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/ellipsoidal-model/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -285,11 +305,6 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/7/</loc>
-    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>

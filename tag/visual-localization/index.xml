@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>7 | Matthieu Zins</title>
-    <link>/publication-type/7/</link>
-      <atom:link href="/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
-    <description>7</description>
+    <title>Visual Localization | Matthieu Zins</title>
+    <link>/tag/visual-localization/</link>
+      <atom:link href="/tag/visual-localization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visual Localization</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud447f41cd9e676e6dd869c25119b4fc4_1916_512x512_fill_lanczos_center_2.png</url>
-      <title>7</title>
-      <link>/publication-type/7/</link>
+      <title>Visual Localization</title>
+      <link>/tag/visual-localization/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/thesis/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <guid>/publication/thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Color Fusion and Super-Resolution for Time-of-Flight Cameras</title>
-      <link>/publication/masterthesis/</link>
-      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/masterthesis/</guid>
       <description></description>
     </item>
     

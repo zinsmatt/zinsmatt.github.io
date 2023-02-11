@@ -5,12 +5,20 @@
     <link>/tag/ellipsoidal-model/</link>
       <atom:link href="/tag/ellipsoidal-model/index.xml" rel="self" type="application/rss+xml" />
     <description>Ellipsoidal Model</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud447f41cd9e676e6dd869c25119b4fc4_1916_512x512_fill_lanczos_center_2.png</url>
       <title>Ellipsoidal Model</title>
       <link>/tag/ellipsoidal-model/</link>
     </image>
+    
+    <item>
+      <title>Contributions to the accuracy and robustness of visual localization in a world of objects</title>
+      <link>/publication/thesis/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction</title>
