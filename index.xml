@@ -182,7 +182,11 @@ The goal of this challenge was to detect and segment faults (curved surfaces) fr
       <link>/these/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/these/</guid>
-      <description>&lt;h3 id=&#34;3DV_IJCV&#34;&gt;Chapitre 2 : Prédiction d&amp;rsquo;ellipse guidée par la 3D pour améliorer le calcul de pose&lt;/h3&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hal.archives-ouvertes.fr/tel-03922962/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Manuscript&lt;/a&gt; | &lt;a href=&#34;/files/Thesis_reports_examinators.pdf&#34;&gt;Examinators report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Codes (Python and C++) released at &lt;a href=&#34;https://gitlab.inria.fr/tangram&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gitlab.inria.fr/tangram&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3DV_IJCV&#34;&gt;Chapitre 2 : Prédiction d&amp;rsquo;ellipse guidée par la 3D pour améliorer le calcul de pose&lt;/h3&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/mGQ1tRELtlA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
